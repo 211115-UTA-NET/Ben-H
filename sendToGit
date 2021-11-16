@@ -1,0 +1,5 @@
+read fileName
+read commitMessage
+git add $fileName
+git commit -m "$commitMessage"
+git push
