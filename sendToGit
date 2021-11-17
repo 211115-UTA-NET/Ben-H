@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 read fileName
 read commitMessage
 git add $fileName
