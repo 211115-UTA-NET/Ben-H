@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 read folderName
 read fileName
 mkdir $folderName
