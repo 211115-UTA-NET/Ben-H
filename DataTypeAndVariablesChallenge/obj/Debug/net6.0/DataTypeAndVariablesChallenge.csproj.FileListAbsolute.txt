@@ -1,0 +1,15 @@
+C:\Users\bbruc\Revature\Ben-H\DataTypeAndVariablesChallenge\bin\Debug\net6.0\DataTypeAndVariablesChallenge.exe
+C:\Users\bbruc\Revature\Ben-H\DataTypeAndVariablesChallenge\bin\Debug\net6.0\DataTypeAndVariablesChallenge.deps.json
+C:\Users\bbruc\Revature\Ben-H\DataTypeAndVariablesChallenge\bin\Debug\net6.0\DataTypeAndVariablesChallenge.runtimeconfig.json
+C:\Users\bbruc\Revature\Ben-H\DataTypeAndVariablesChallenge\bin\Debug\net6.0\DataTypeAndVariablesChallenge.dll
+C:\Users\bbruc\Revature\Ben-H\DataTypeAndVariablesChallenge\bin\Debug\net6.0\ref\DataTypeAndVariablesChallenge.dll
+C:\Users\bbruc\Revature\Ben-H\DataTypeAndVariablesChallenge\bin\Debug\net6.0\DataTypeAndVariablesChallenge.pdb
+C:\Users\bbruc\Revature\Ben-H\DataTypeAndVariablesChallenge\obj\Debug\net6.0\DataTypeAndVariablesChallenge.csproj.AssemblyReference.cache
+C:\Users\bbruc\Revature\Ben-H\DataTypeAndVariablesChallenge\obj\Debug\net6.0\DataTypeAndVariablesChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbruc\Revature\Ben-H\DataTypeAndVariablesChallenge\obj\Debug\net6.0\DataTypeAndVariablesChallenge.AssemblyInfoInputs.cache
+C:\Users\bbruc\Revature\Ben-H\DataTypeAndVariablesChallenge\obj\Debug\net6.0\DataTypeAndVariablesChallenge.AssemblyInfo.cs
+C:\Users\bbruc\Revature\Ben-H\DataTypeAndVariablesChallenge\obj\Debug\net6.0\DataTypeAndVariablesChallenge.csproj.CoreCompileInputs.cache
+C:\Users\bbruc\Revature\Ben-H\DataTypeAndVariablesChallenge\obj\Debug\net6.0\DataTypeAndVariablesChallenge.dll
+C:\Users\bbruc\Revature\Ben-H\DataTypeAndVariablesChallenge\obj\Debug\net6.0\ref\DataTypeAndVariablesChallenge.dll
+C:\Users\bbruc\Revature\Ben-H\DataTypeAndVariablesChallenge\obj\Debug\net6.0\DataTypeAndVariablesChallenge.pdb
+C:\Users\bbruc\Revature\Ben-H\DataTypeAndVariablesChallenge\obj\Debug\net6.0\DataTypeAndVariablesChallenge.genruntimeconfig.cache

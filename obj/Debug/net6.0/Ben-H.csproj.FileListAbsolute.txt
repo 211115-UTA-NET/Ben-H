@@ -1,0 +1,5 @@
+C:\Users\bbruc\Revature\Ben-H\obj\Debug\net6.0\Ben-H.csproj.AssemblyReference.cache
+C:\Users\bbruc\Revature\Ben-H\obj\Debug\net6.0\Ben-H.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbruc\Revature\Ben-H\obj\Debug\net6.0\Ben-H.AssemblyInfoInputs.cache
+C:\Users\bbruc\Revature\Ben-H\obj\Debug\net6.0\Ben-H.AssemblyInfo.cs
+C:\Users\bbruc\Revature\Ben-H\obj\Debug\net6.0\Ben-H.csproj.CoreCompileInputs.cache

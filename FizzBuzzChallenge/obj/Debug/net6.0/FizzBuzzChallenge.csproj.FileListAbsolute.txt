@@ -1,0 +1,15 @@
+C:\Users\bbruc\Revature\Ben-H\FizzBuzzChallenge\bin\Debug\net6.0\FizzBuzzChallenge.exe
+C:\Users\bbruc\Revature\Ben-H\FizzBuzzChallenge\bin\Debug\net6.0\FizzBuzzChallenge.deps.json
+C:\Users\bbruc\Revature\Ben-H\FizzBuzzChallenge\bin\Debug\net6.0\FizzBuzzChallenge.runtimeconfig.json
+C:\Users\bbruc\Revature\Ben-H\FizzBuzzChallenge\bin\Debug\net6.0\FizzBuzzChallenge.dll
+C:\Users\bbruc\Revature\Ben-H\FizzBuzzChallenge\bin\Debug\net6.0\ref\FizzBuzzChallenge.dll
+C:\Users\bbruc\Revature\Ben-H\FizzBuzzChallenge\bin\Debug\net6.0\FizzBuzzChallenge.pdb
+C:\Users\bbruc\Revature\Ben-H\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.csproj.AssemblyReference.cache
+C:\Users\bbruc\Revature\Ben-H\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbruc\Revature\Ben-H\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.AssemblyInfoInputs.cache
+C:\Users\bbruc\Revature\Ben-H\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.AssemblyInfo.cs
+C:\Users\bbruc\Revature\Ben-H\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.csproj.CoreCompileInputs.cache
+C:\Users\bbruc\Revature\Ben-H\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.dll
+C:\Users\bbruc\Revature\Ben-H\FizzBuzzChallenge\obj\Debug\net6.0\ref\FizzBuzzChallenge.dll
+C:\Users\bbruc\Revature\Ben-H\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.pdb
+C:\Users\bbruc\Revature\Ben-H\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.genruntimeconfig.cache

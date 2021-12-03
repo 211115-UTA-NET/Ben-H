@@ -1,0 +1,15 @@
+C:\Users\bbruc\Revature\Ben-H\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.csproj.AssemblyReference.cache
+C:\Users\bbruc\Revature\Ben-H\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbruc\Revature\Ben-H\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.AssemblyInfoInputs.cache
+C:\Users\bbruc\Revature\Ben-H\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.AssemblyInfo.cs
+C:\Users\bbruc\Revature\Ben-H\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.csproj.CoreCompileInputs.cache
+C:\Users\bbruc\Revature\Ben-H\StringManipulationChallenge\bin\Debug\net6.0\StringManipulationChallenge.exe
+C:\Users\bbruc\Revature\Ben-H\StringManipulationChallenge\bin\Debug\net6.0\StringManipulationChallenge.deps.json
+C:\Users\bbruc\Revature\Ben-H\StringManipulationChallenge\bin\Debug\net6.0\StringManipulationChallenge.runtimeconfig.json
+C:\Users\bbruc\Revature\Ben-H\StringManipulationChallenge\bin\Debug\net6.0\StringManipulationChallenge.dll
+C:\Users\bbruc\Revature\Ben-H\StringManipulationChallenge\bin\Debug\net6.0\ref\StringManipulationChallenge.dll
+C:\Users\bbruc\Revature\Ben-H\StringManipulationChallenge\bin\Debug\net6.0\StringManipulationChallenge.pdb
+C:\Users\bbruc\Revature\Ben-H\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.dll
+C:\Users\bbruc\Revature\Ben-H\StringManipulationChallenge\obj\Debug\net6.0\ref\StringManipulationChallenge.dll
+C:\Users\bbruc\Revature\Ben-H\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.pdb
+C:\Users\bbruc\Revature\Ben-H\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.genruntimeconfig.cache
