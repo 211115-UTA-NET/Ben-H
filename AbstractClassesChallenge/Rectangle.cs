@@ -25,8 +25,10 @@ namespace AbstractClassesChallenge
         }
         
         // Constructor
-        public Rectangle(double sideLength) : base(Name, NumSides)
+        public Rectangle(string Name, int Numsides, double sideLength) : base(Name, NumSides)
         {
+            this.Name = Name;
+            this.Numsides = Numsides;
             this.sideLength = sideLength;
         }
 

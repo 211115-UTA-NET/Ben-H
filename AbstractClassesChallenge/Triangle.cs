@@ -27,7 +27,7 @@ namespace AbstractClassesChallenge
         }
         
         // Constructor
-        public Triangle(double aLength, double bLength, double cLength) : base(Name, NumSides)
+        public Triangle(string Name, int Numsides, double aLength, double bLength, double cLength) : base(Name, NumSides)
         {
             this.Name = Name;
             this.NumSides = NumSides;
