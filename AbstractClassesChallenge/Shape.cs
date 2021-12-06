@@ -4,9 +4,9 @@ namespace AbstractClassesChallenge
 {
     abstract public class Shape
     {
-        public string Name { get; set; } = "";
+        public string Name { get; set; } = " ";
         public int NumSides { get; set; } = 0;
-        protected double area;
+        public double area = 0;
         
         protected double Area 
         { 
@@ -41,7 +41,7 @@ namespace AbstractClassesChallenge
         }
         
         // This method sets the Area of the shape
-        protected abstract void SetArea();
+        public abstract void SetArea();
 
     }
 }
